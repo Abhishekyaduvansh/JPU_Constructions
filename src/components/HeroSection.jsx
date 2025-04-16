@@ -19,8 +19,23 @@ const HeroSection = () => {
             {" "}
             JPU Constructions & Interiors
           </span>
+           
         </h1>
         <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl m-auto">
+        {/* *Crafting Quality, Constructing Future.<br />
+          * Building Dreams, One Brick at a Time. <br />  
+          * Your Vision, Our Mission. <br />
+          * Building Tomorrow, Today. <br />
+          * Transforming Spaces, Creating Memories. <br /> 
+           * Excellence in Every Detail. <br />
+           * Where Quality Meets Craftsmanship. <br />
+           * Building Dreams with Precision. <br />
+           * Your Trusted Partner in Construction.  <br />
+          * Building the Future, One Project at a Time. <br />
+          * Your Dream Home Awaits. <br />
+           * Building Trust, One Project at a Time. <br />
+           * Constructing Excellence, One Brick at a Time. <br /> */}
+          {/* Your Vision, Our Blueprint. */}
           Welcome to JPU Construction, where your dream home begins to take
           shape. With a passion for precision and an eye for detail, we
           specialize in turning your vision into reality. From cozy cottages to

@@ -6,3 +6,8 @@
   font-family: "Poppins", sans-serif;
   color-scheme: dark;
 }
+.loader {
+  border-radius: 50%;
+  border: 3px solid #f77117;
+  border-top: 3px solid transparent;
+}
